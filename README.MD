@@ -1,4 +1,4 @@
-# OpenHexagon
+# PyHexagon
 
 This is an open-source re-implementation of the game SuperHexagon
 

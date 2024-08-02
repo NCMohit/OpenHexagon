@@ -12,7 +12,7 @@ width = config["screen_width"]
 height = config["screen_height"]
 
 gamedisplay = pygame.display.set_mode((width,height))
-pygame.display.set_caption("OpenHexagon")
+pygame.display.set_caption("PyHexagon")
 
 clock = pygame.time.Clock()
 
